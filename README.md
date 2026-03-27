@@ -39,7 +39,7 @@ Player X's turn
 
 1. Install Python  
 2. Clone this repository  
-   git clone https://github.com/BM804/tic-tac-toe.git  
+   git clone https://github.com/BM804/tic_tac_Toe.git  
 
 3. Go to project folder  
    cd tic-tac-toe-python  
